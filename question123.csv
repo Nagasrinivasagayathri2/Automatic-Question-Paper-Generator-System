@@ -1,0 +1,136 @@
+Semester,Subject,Questions,weightage,Unit,Difficult
+4,JAVA,Describe  Java Virtual Machine(JVM) Architecture.,K1,1,1
+4,JAVA,Describe primitive type conversion and casting in java. ,K1,1,1
+4,JAVA,Describe the structure of the Java Program.,K1,1,1
+4,JAVA,Describe the history and features of java.,K1,1,2
+4,JAVA,Define Variable.,K1,1,2
+4,JAVA,Define Constant.,K1,1,2
+4,JAVA,Define String class.,K1,1,3
+4,JAVA,Define datatypes in java.,K1,1,3
+4,JAVA,Define Scanner class.,K1,1,3
+4,JAVA,Explain concepts of Object Oriented Programming.,K2,1,1
+4,JAVA,Explain about String class in java with suitable example.,K2,1,1
+4,JAVA,Explain primitive type conversion in java with example.,K2,1,1
+4,JAVA,Explain Structure of Java Program with example.,K2,1,2
+4,JAVA,Explain types of variables.,K2,1,2
+4,JAVA,Explain applications of java.,K2,1,2
+4,JAVA,Explain features of java.,K2,1,3
+4,JAVA,Explain execution steps of java program.,K2,1,3
+4,JAVA,Explain fundamentals of java.,K2,1,3
+4,JAVA,Develop a program to print your biodata form in proper format and write down the execution steps.,K3,1,1
+4,JAVA,Develop a program on String class in java.,K3,1,1
+4,JAVA,Develop a program to print the given number is even or odd.,K3,1,1
+4,JAVA,Develop a program to print the given number is prime or not.,K3,1,2
+4,JAVA,Develop a program to print largest of three numbers.,K3,1,2
+4,JAVA,Develop a program to print sum of two numbers.,K3,1,2
+4,JAVA,Develop a program to print fibonacci series.,K3,1,3
+4,JAVA,Develop a program to print factorial of a given number.,K3,1,3
+4,JAVA,Develop a program to print smallest of three numbers.,K3,1,3
+4,JAVA,Define class and object.,K1,2,1
+4,JAVA,Define method.,K1,2,1
+4,JAVA,Define Constructor.,K1,2,1
+4,JAVA,Define static keyword in java.,K1,2,2
+4,JAVA,Define this Keyword.,K1,2,2
+4,JAVA,Define 1-D array in java.,K1,2,2
+4,JAVA,Define 2-D array in java.,K1,2,3
+4,JAVA,Define command line argument in java.,K1,2,3
+4,JAVA,Define garbage collector.,K1,2,3
+4,JAVA,Illustrate the usage of static keyword with suitable examples.,K2,2,1
+4,JAVA,Explain Nested classes with suitable examples.,K2,2,1
+4,JAVA,Explain about Arrays in java with suitable example.,K2,2,1
+4,JAVA,Illustrate Constructor Overloading with an example.,K2,2,2
+4,JAVA,Explain Command line argument with suitable example.,K2,2,2
+4,JAVA,Explain Garbage Collector with an example.,K2,2,2
+4,JAVA,Explain this Keyword with an example.,K2,2,3
+4,JAVA,Explain importance of static keyword in java with suitable examples.,K2,2,3
+4,JAVA,Explain instance method with suitable example.,K2,2,3
+4,JAVA,Develop a program to accept an integer as a command line argument and find the factorial of it.,K3,2,1
+4,JAVA,Develop a program to perform sorting of array elements in ascending order.,K3,2,1
+4,JAVA,Construct a prgram to illustrate the usage of jagged array.,K3,2,1
+4,JAVA,Construct a prgram to illustrate the usage of class and object.,K3,2,2
+4,JAVA,Construct a prgram to illustrate the usage of instance method.,K3,2,2
+4,JAVA,"Develop a program to perform addition of two integers,addition of three integers,addition of two integers and one float using constructors.",K3,2,2
+4,JAVA,Develop a program to find min element of an array by using method.,K3,2,3
+4,JAVA,Construct a prgram to illustrate the usage of Anonymous Array.,K3,2,3
+4,JAVA,Construct a prgram to illustrate the usage of copying and cloning of arrays.,K3,2,3
+4,JAVA,Define Inheritance.,K1,3,1
+4,JAVA,Define super Keyword.,K1,3,1
+4,JAVA,Define final Keyword.,K1,3,1
+4,JAVA,Define Method Overriding.,K1,3,2
+4,JAVA,Define Abstract class.,K1,3,2
+4,JAVA,Define Interface.,K1,3,2
+4,JAVA,Define packages in java.,K1,3,3
+4,JAVA,Define class path.,K1,3,3
+4,JAVA,Define Exception Handling in java.,K1,3,3
+4,JAVA,Explain about different types of inheritance in java.,K2,3,1
+4,JAVA,Explain the procedure of creating and accessing packages in java.,K2,3,1
+4,JAVA,Explain about interfaces in java with suitable examples.,K2,3,1
+4,JAVA,Explain about Abstract class with a suitable example.,K2,3,2
+4,JAVA,Explain about class path with suitable example.,K2,3,2
+4,JAVA,"Explain about importance of try,catch and throw  with example.",K2,3,2
+4,JAVA,Explain final keyword in java with an example.,K2,3,3
+4,JAVA,Differentitate Method Overloading and Method overiding.,K2,3,3
+4,JAVA,Differentitate Abstract and final Keyword.,K2,3,3
+4,JAVA,Construct a program to achieve method overriding in java.,K3,3,1
+4,JAVA,Construct a program on multiple catch blocks.,K3,3,1
+4,JAVA,Construct a program to achieve multiple inheritance.,K3,3,1
+4,JAVA,"Take an abstract class with the name Branch can consists abstract method percentage and take three subclasses in it named as CSE,ECE,EEE by overriding method percentage to show 92% for CSE , 91% for ECE and 90% for EEE.",K3,3,2
+4,JAVA,"Take three different classes to print 1 to 10 natural numbers,even ,odd and print them as multiple inheritance.",K3,3,2
+4,JAVA,Construct a program to achieve multiple inheritance in java with help of interface.,K3,3,2
+4,JAVA,Construct a program on final keyword.,K3,3,3
+4,JAVA,Construct a program on dynamic method dispatch.,K3,3,3
+4,JAVA,Construct a program on call by reference.,K3,3,3
+4,JAVA,Define Multithreading.,K1,4,1
+4,JAVA,Define Multiprocessing.,K1,4,1
+4,JAVA,Define Thread.,K1,4,1
+4,JAVA,List some methods in thread class.,K1,4,2
+4,JAVA,Define Streams in files concept.,K1,4,2
+4,JAVA,Define byte steam.,K1,4,2
+4,JAVA,Define char stream.,K1,4,3
+4,JAVA,List out the advantages of Multithreading.,K1,4,3
+4,JAVA,List out the disadvantages of multiprocessing.,K1,4,3
+4,JAVA,Explain the procedure of creating and accessing packagesin java.,K2,4,1
+4,JAVA,Explain about Thread Synchronization with a suitable example.,K2,4,1
+4,JAVA,Explain about Thread lifecycle.,K2,4,1
+4,JAVA,Explain about Thread Priorities with a suitable example.,K2,4,2
+4,JAVA,Differentiate Process based and Thread based process.,K2,4,2
+4,JAVA,Explain the procedure to set and get thread names.,K2,4,2
+4,JAVA,Explain about communication between two threads.,K2,4,3
+4,JAVA,Is it possible to achieve true parallelism using multithreading.What are the limitations in it?,K2,4,3
+4,JAVA,How to create and run Threads.Explain it with example.,K2,4,3
+4,JAVA,Develop a program to read  data from a file. ,K3,4,1
+4,JAVA,"Develop a program to count number of characters,words and lines in a file.",K3,4,1
+4,JAVA,Develop a program to randomly access data in files.,K3,4,1
+4,JAVA,Develop a program to write data into a file.,K3,4,2
+4,JAVA,Develop a program on multithreading using runnable interface.,K3,4,2
+4,JAVA,Develop a program to copy data from one file to other file.,K3,4,2
+4,JAVA,Develop a program to create a file.,K3,4,3
+4,JAVA,Develop a program to delete a file.,K3,4,3
+4,JAVA,Develop a program on synchronized method.,K3,4,3
+4,JAVA,Define AWT.,K1,5,1
+4,JAVA,Define Applets.,K1,5,1
+4,JAVA,Define Swings.,K1,5,1
+4,JAVA,List out few components of applets.,K1,5,2
+4,JAVA,List out few components of swings.,K1,5,2
+4,JAVA,Define adapter class.,K1,5,2
+4,JAVA,Define Event delegation model.,K1,5,3
+4,JAVA,List out Event classes in applets.,K1,5,3
+4,JAVA,List out Event listener in applets.,K1,5,3
+4,JAVA,Explain about parameter passing in applets.,K2,5,1
+4,JAVA,Explain Event Delegation Model.,K2,5,1
+4,JAVA,Describe applet lifecycle with a neat diagram.,K2,5,1
+4,JAVA,Differentiate between AWT and Swings.,K2,5,2
+4,JAVA,Differentiate between Applet and Swings.,K2,5,2
+4,JAVA,Explain the functionality of Jcomponent & Jpannel.,K2,5,2
+4,JAVA,Briefly explain about the following a)check box b) component event c) focus event d) Jbutton,K2,5,3
+4,JAVA,What are layout manager? Discuss the layout java supports ?,K2,5,3
+4,JAVA,Breifly explain the components of AWT.,K2,5,3
+4,JAVA,Develop registration form using AWT.,K3,5,1
+4,JAVA,Develop a program to handle different Mouse events.,K3,5,1
+4,JAVA,Develop a program to handle different Key events.,K3,5,1
+4,JAVA,"Develop a program to create  a  JScrollbar and display the x,y coordinates using Java Swings.",K3,5,2
+4,JAVA,Develop a program to handle different MouseMotion events.,K3,5,2
+4,JAVA,Develop a program to handle different Item events.,K3,5,2
+4,JAVA,Develop a program on adapter class.,K3,5,3
+4,JAVA,Develop a program on applet class .,K3,5,3
+4,JAVA,Construct a program to illustrate the usage of methods in Graphic class .,K3,5,3

@@ -1,0 +1,46 @@
+Course Code:v20CST17																HTNO:
+							SRI VASAVI ENGINEERING COLLEGE(Autonomous
+							BTechIVSemester Regular Examination-April-2022
+							JAVA
+Time: 3Hrs
+																Marks:50M
+							Questions from Unit-1
+
+Describe the structure of the Java Program. K1	2m
+
+Explain about String class in java with suitable example. K2	3m
+
+Develop a program on String class in java. K3	5m
+
+							Questions from Unit-2
+
+Define method. K1	2m
+
+Explain Nested classes with suitable examples. K2	3m
+
+Construct a prgram to illustrate the usage of jagged array. K3	5m
+
+							Questions from Unit-3
+
+Define Inheritance. K1	2m
+
+Explain about different types of inheritance in java. K2	3m
+
+Construct a program on multiple catch blocks. K3	5m
+
+							Questions from Unit-4
+
+Define Thread. K1	2m
+
+Explain the procedure of creating and accessing packagesin java. K2	3m
+
+Develop a program to randomly access data in files. K3	5m
+
+							Questions from Unit-5
+
+Define AWT. K1	2m
+
+Explain about parameter passing in applets. K2	3m
+
+Develop a program to handle different Key events. K3	5m
+
